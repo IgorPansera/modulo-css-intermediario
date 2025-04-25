@@ -1,0 +1,15 @@
+/* .container-cascata{
+    background-color: aqua;
+} */
+
+p{
+    background-color: lightblue;
+}
+
+.container-especificidade p{
+    background-color: orange;
+}
+
+#meu-paragrafo{
+    background-color: violet;
+}
