@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Birdy';
+    src: url('./fontes/Birdy\ Script_DEMO.ttf'), 
+    url('./fontes/Birdy_DEMO.ttf');
+}
+
+h1 {
+ font-family:'Birdy', Arial, Helvetica, sans-serif;
+ font-weight: 100;
+}
