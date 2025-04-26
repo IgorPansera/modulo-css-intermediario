@@ -4,7 +4,7 @@
     
     .cabecalho {
         padding: 10px;
-        background-color: #69f0ae;
+        background-color: red;
     }
     
     .cabecalho .logo {
@@ -45,13 +45,14 @@
         width: 100%;
     }
     
+    /* dispositivos extra pequenos(celulares e posiçoes porta retratos menores do que 576px*/
     @media (max-width: 576px) {
-        .cabecalho {
+        .cabecalho {    
         text-align: center;
         }
     
         .cabecalho nav {
-        float: none;
+        float: none;    
         }
     
         .cabecalho nav li {
